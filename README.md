@@ -1,4 +1,3 @@
-"# reversing-demo" 
 This repository contains the source code of the binary 64-bit ELF binary which was used during the I-Talent reverse engineering demo.
 
 Compile the source code into a binary without optimizations:
